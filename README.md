@@ -6,7 +6,7 @@ This repository contains a collection of utility programs that I use for various
 
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- 
+
 ## Getting Started
 
 To get a copy of this repository up and running on your local machine, follow these instructions.
@@ -14,8 +14,7 @@ To get a copy of this repository up and running on your local machine, follow th
 ### Prerequisites
 
 - [Git](https://git-scm.com/) - Version control system
-- [Python](https://www.python.org/) - Required for some scripts (if applicable)
-- [Bash](https://www.gnu.org/software/bash/) - Required for shell scripts (if applicable)
+- [Bash](https://www.gnu.org/software/bash/) - Required for shell scripts
 
 ### Cloning the Repository
 
