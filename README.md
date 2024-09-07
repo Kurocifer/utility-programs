@@ -20,5 +20,5 @@ To get a copy of this repository up and running on your local machine, follow th
 
 ```bash
 git clone https://github.com/kurocifer/utility-programs.git
-cd utility-scripts
+cd utility-programs
 ```
