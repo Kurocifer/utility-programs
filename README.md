@@ -19,6 +19,6 @@ To get a copy of this repository up and running on your local machine, follow th
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/your-username/utility-scripts.git
+git clone https://github.com/kurocifer/utility-programs.git
 cd utility-scripts
 ```
