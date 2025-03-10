@@ -10,12 +10,12 @@ This repository contains a collection of utility programs that I use for various
 
 ## Getting Started
 
-To get a copy of this repository up and running on your local machine, follow these instructions.
+To get a copy of this repository on your local machine, follow these steps.
 
 ### Prerequisites
 
 - [Git](https://git-scm.com/) - Version control system
-- [Bash](https://www.gnu.org/software/bash/) - Required for shell scripts
+- [Linux Terminal](https://www.gnu.org/software/bash/) - Required for shell scripts
 
 ### Cloning the Repository
 
@@ -26,5 +26,6 @@ cd utility-programs
 
 ## Prgrams Overview
 
-- [clone-repos](https://github.com/Kurocifer/utility-programs/tree/master/clone-repos) Clone all your public repos
+- [clone-repos](https://github.com/Kurocifer/utility-programs/tree/master/clone-repos) Clone all your public github repos
+- [grok-web-desktop-launcher](https://github.com/kurocifer/utility-programs/tree/master/grok-web-desktop-launcher) Create a desktop launcher for the grok website
 
