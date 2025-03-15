@@ -47,7 +47,7 @@ check_dependencies() {
 check_dependencies
 
 # check if user provided cridentials as command line arguements if not request for them
-if [ -z "$1" ]; then
+if [ ?# -ne 2 ]; then
 	read -p "Enter your github user name: " user_name
 	read -p "Enter your github access token: " user_token
 else
@@ -55,8 +55,6 @@ else
 	user_token="$2"
 fi
 
-# echo $user_name
-# echo $user_token
 printf "\n\n"
 
 # using the github api to get list of public repos
