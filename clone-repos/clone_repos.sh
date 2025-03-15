@@ -19,7 +19,7 @@ check_dependencies() {
 			sleep 2
 			clear
 		else
-			echo "$jq_dependency is required for parsing JSON response. Ending session"
+			echo "$jq_dependency is required for processing JSON response. Ending session"
 			exit 1
 		fi
 	fi
