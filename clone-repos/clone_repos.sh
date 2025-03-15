@@ -15,7 +15,7 @@ check_dependencies() {
 
 		if [ $install_jq = "y" ]; then
 			sudo apt install $jq_dependency
-			printf "\nfinishd installing $jq_dependency"
+			printf "\nfinished installing $jq_dependency"
 			sleep 2
 			clear
 		else
